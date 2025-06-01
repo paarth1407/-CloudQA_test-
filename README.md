@@ -1,4 +1,3 @@
-Automation Algorithm :-
 # Overview
 A robust web form testing algorithm that uses multiple locator strategies to ensure test reliability despite HTML element changes.
 # Algorithm Structure
